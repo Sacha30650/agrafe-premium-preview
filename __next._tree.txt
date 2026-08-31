@@ -1,0 +1,4 @@
+:HL["/agrafe-premium-preview/_next/static/chunks/3ix18ghiqxzwr.css","style"]
+:HL["/agrafe-premium-preview/_next/static/chunks/29hbn9jrq35c_.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"U1lPx4W-jz1arL8_CEox3"}
